@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs/hdfs.iml" filepath="$PROJECT_DIR$/hdfs/hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs1/hdfs1.iml" filepath="$PROJECT_DIR$/hdfs1/hdfs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapReduce/mapReduce.iml" filepath="$PROJECT_DIR$/mapReduce/mapReduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapReduce1/mapReduce1.iml" filepath="$PROJECT_DIR$/mapReduce1/mapReduce1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webLogProcess/webLogProcess.iml" filepath="$PROJECT_DIR$/webLogProcess/webLogProcess.iml" />
+    </modules>
+  </component>
+</project>

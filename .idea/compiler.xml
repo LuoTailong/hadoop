@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example" />
+        <module name="hdfs" />
+        <module name="hdfs1" />
+        <module name="mapReduce" />
+        <module name="webLogProcess" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example" target="1.5" />
+      <module name="hdfs" target="1.8" />
+      <module name="hdfs1" target="1.5" />
+      <module name="hdfs2" target="1.5" />
+      <module name="mapReduce" target="1.8" />
+      <module name="mapReduce1" target="1.8" />
+      <module name="mapreduce2" target="1.8" />
+      <module name="webLogProcess" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
